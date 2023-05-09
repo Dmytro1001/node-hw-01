@@ -35,7 +35,7 @@ contacts.json - це база даних контактів користувач
 
 1 "list" - дана дія повертає список контактів - </ node index -a list />
 
-![node index -a list](https://i.ibb.co/Zf3BFrf/list.jpg)
+![node index -a list](https://i.ibb.co/N9Q69cC/get-table.jpg)
 
 2 "get" - дана дія повертає відповідний контакт за id - </ node index -a get -i "rsKkOQUi80UsgVPCcLZZW" />
 
